@@ -14,7 +14,7 @@ PHP 5.6+ Curl, OpenSSL extension installed.
 - 支持房间短号
 
 ## 相关
-本项目使用BiliAuth项目的登录组件
+本项目使用[BiliAuth](https://github.com/lkeme/BiliAuth)项目的登录组件
 
 ## Author
 
