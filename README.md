@@ -6,7 +6,7 @@ PHP 5.6+ Curl, OpenSSL extension installed.
 > **Note:** BiliAuth requires [cURL](http://php.net/manual/en/book.curl.php) and [OpenSSL](http://php.net/manual/en/book.openssl.php) extension in order to work.
 
 ## 使用说明
-- 修改config.php中的roomid（不支持房间短号）:
+- 修改config.php中的roomid（不支持房间短号）
 - head.php默认为蓝色界面，使用head_pink.php可替换为粉色界面
 
 ## TODO
